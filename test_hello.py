@@ -6,4 +6,4 @@ def test_add():
 
 
 def test_multiply():
-    assert add(3, 2) == 6
+    assert multiply(3, 2) == 6
